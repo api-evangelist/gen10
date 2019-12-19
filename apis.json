@@ -1,0 +1,46 @@
+{
+    "name": "Gen10",
+    "description": "Generation 10 delivers innovative, high-value, flexible commodity management solutions, CTRM, data analytics, supply chain optimisation from origination",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28732-generation10-net.jpg",
+    "tags": [
+        "api not found",
+        "commodities",
+        "financial",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gen10\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Gen10",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28732-generation10-net.jpg",
+            "humanURL": "http:\/\/generation10.net",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gen10-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "info@generation10.net"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/G10News"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/generation10.net"
+        }
+    ]
+}
