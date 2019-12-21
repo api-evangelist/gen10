@@ -8,8 +8,8 @@
         "financial",
         "have api"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gen10\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -23,13 +23,21 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gen10-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gen10\/master\/gen10-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gen10\/master\/gen10-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Email",
             "url": "info@generation10.net"
